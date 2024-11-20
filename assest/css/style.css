@@ -1,0 +1,75 @@
+.section-one .inner-main{
+    border-radius: 10px;
+    overflow: hidden;
+}
+.section-one .inner-head{
+    background: -webkit-linear-gradient(-30deg, #f27f20, #f5520c 100%);
+    text-align: center;
+    padding: 10px;
+    /* border-radius: 30px; */
+}
+.section-one .inner-head .inner-title{
+    font-size: 32px;
+    color: aliceblue;
+}
+.section-one .inner-body{
+    border: 1px solid #202b07f4;
+    padding: 20px;
+    border-radius: 0;
+}
+
+.section-one .inner-body .card .card-header{
+    background-color: #ddd;
+    border: 0;
+    padding: 0;
+}
+.section-one .collapsed{
+    margin: 10px solid #ddd;
+}
+.section-one .btn{
+    border: 1px solid #ffffffbe;
+    color: #f27f20;
+}
+.section-one .btn.collapsed{
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    color: #000;
+}
+.section-one .btn:focus{
+    box-shadow: none;
+}
+
+
+.section-two{
+    margin-top: 60px ;
+}
+.section-two .inner-main {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.section-two .inner-head {
+    background: -webkit-linear-gradient(-30deg, #f27f20, #f5520c 100%);
+    text-align: center;
+    padding: 10px;
+}
+
+.section-two .inner-head .inner-title {
+    font-size: 32px;
+    color: aliceblue;
+    font-weight: 700px;
+}
+.section-two .inner-head .inner-desc {
+    color: aliceblue;
+}
+.section-two .inner-body {
+    border: 1px solid #202b07f4;
+    padding: 20px;
+    border-radius: 0;
+}
+.section-two .form {
+    margin: 10px solid #ddd;
+}
+.section-two button {
+    background-color: -webkit-linear-gradient(-30deg, #f27f20, #f5520c 100%);
+}
